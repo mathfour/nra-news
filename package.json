@@ -1,0 +1,22 @@
+{
+  "name": "nra-news",
+  "version": "1.0.0",
+  "description": "Enjoy the latest news around gun control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathfour/nra-news.git"
+  },
+  "author": "Bon Crowder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathfour/nra-news/issues"
+  },
+  "homepage": "https://github.com/mathfour/nra-news#readme",
+  "dependencies": {
+    "express-mongoose-generator": "^3.0.3"
+  }
+}
